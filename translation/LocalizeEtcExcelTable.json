@@ -13936,7 +13936,7 @@
             "NameJp": "ポップコーンバケット",
             "NameEn": "Popcorn Bucket",
             "DescriptionJp": "魔法少女ヘヴィキャリバーのマスコットをモチーフにして作られたポップコーンバケット。どこか作りが雑である。",
-            "DescriptionEn": "A popcorn bucket modeled after the mascot of Magical Girl Heavy Caliber. I is somewhat crudely made."
+            "DescriptionEn": "A popcorn bucket modeled after the mascot of Magical Girl Heavy Caliber. It is somewhat crudely made."
         },
         {
             "Key": 1363650339,
@@ -14032,8 +14032,8 @@
             "DescriptionKr": "테르밋 화이트는 마법리버 시리즈의 영원한 주인공입니다! 원래는 조금 덜렁거리는 평범한 여자아이였지만, 어느 날 못된 에라의 습격으로 절체절명의 위기에 처했을 때! 마법나라에서 온 마스코트, 스타낙을 만납니다! 무섭고 떨렸지만 정의로운 화이트는 마법소녀의 힘을 얻기 위해 매지컬내셔널가드 계약을 맺고 마법소녀가 되었습니다! 그리고 화이트가 구해준 핑크도 마법소녀가 되면서 두 사람은 세계를 지키는 정의의 마법 미소녀, '마법소녀 헤비캘리버즈'가 됩니다! 2기 2화에서 화이트가 악당 졸개 '드래곤 스킨'을 만났을 때의 이야기인데요-",
             "NameJp": "平和の使者！ホワイトに任せて！",
             "DescriptionJp": "テルミットホワイトは「まほリバ」シリーズの主人公です！元々は少しおっちょこちょいで平凡な女の子でしたが、ある日エラの襲撃で危機に瀕したとき！魔法の国からやってきたマスコット、スタナグちゃんに出会うんです！怖くて身体が震えても、正義感にあふれたホワイトはマジカルナショナルガードとしての契約を結んで、魔法少女になりました！そして、ホワイトに助けられたピンクも魔法少女になって、二人は世界を救う正義の魔法少女、「ヘヴィキャリバーズ」になるんです！2期2話ではホワイトが「ドラゴンスキン」と遭遇したときの話があるのですが――",
-            "NameEn": "Messenger of Peace! Leave It to White!",
-            "DescriptionEn": "Thermite White is the main character of the MohoRiba series! She was once a clumsy, ordinary girl until one fateful day when Era attacked and she met Stanag-chan, a mascot from the magical kingdom! Although she was scared and trembling, White, filled with a sense of justice, signed a contract with the Magical National Guard and became a magical girl! Pink, who was saved by White, also became a magical girl, and the two became \"Heavy Calibers\", magical girls of justice who save the world! In Season 2 Episode 2, there is a story about White's encounter with Dragon Skin―"
+            "NameEn": "Apostle of Peace! Leave It to White!",
+            "DescriptionEn": "Thermite White is the main character of the MahoRiba series! She was once a clumsy, ordinary girl until one fateful day when Era attacked and she met Stanag-chan, a mascot from the magical kingdom! Although she was scared and trembling, White, filled with a sense of justice, signed a contract with the Magical National Guard and became a magical girl! Pink, who was saved by White, also became a magical girl, and the two became \"Heavy Calibers\", magical girls of justice who save the world! In Season 2 Episode 2, there is a story about White's encounter with Dragon Skin―"
         },
 
         {
@@ -15346,7 +15346,146 @@
             "NameEn": "Koyuki's (Pajama) Eleph",
             "DescriptionJp": "コユキ（パジャマ）の神秘が詰まった神名文字。",
             "DescriptionEn": "The mystical Eleph of Koyuki (Pajama)."
-        }
+        },
+        {
+            "Key": 3010141145,
+            "NameJp": "散らかったデスク",
+            "NameEn": "Messy Desk",
+            "DescriptionJp": "ヴァルキューレ警察学校で支給される事務用デスク。\n何故か椅子やデスクの上に散らかっているものが傷だらけだ。",
+            "DescriptionEn": "An office desk issued at the Valkyrie Police Academy. For some reason, the chair and the items scattered on the desk are all scratched up."
+        },
+        {
+            "Key": 3927526577,
+            "NameJp": "ミレニアム製電子ゲート",
+            "NameEn": "Millennium Electronic Gate",
+            "DescriptionJp": "訪問者を歓迎するゲート……しかし、ちゃんと動かない時には「特別な措置」が必要になるかもしれない。",
+            "DescriptionEn": "A gate that welcomes visitors... but if it doesn't work properly, \"special measures\" may be needed."
+        },
+
+        {
+            "Key": 924592088,
+            "NameJp": "コノカの神名文字",
+            "NameEn": "Konoka's Eleph",
+            "DescriptionJp": "コノカの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Konoka."
+        },
+        {
+            "Key": 261607996,
+            "NameJp": "レナの神名文字",
+            "NameEn": "Rena's Eleph",
+            "DescriptionJp": "レナの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Rena."
+        },
+        {
+            "Key": 1119414272,
+            "NameJp": "フィールドサイン",
+            "NameEn": "Field Sign",
+            "DescriptionJp": "調査班Xが発見した痕跡。手がかりを集めて、究極の真実に到達しよう。",
+            "DescriptionEn": "A trace discovered by Investigation Team X. Gather clues and reach the ultimate truth."
+        },
+        {
+            "Key": 3083733858,
+            "NameJp": "謎の雑誌",
+            "NameEn": "Mystery Magazine",
+            "DescriptionJp": "ソース不明な陰謀論がたくさん載っている雑誌。読むのは自由だが盲信は禁物。",
+            "DescriptionEn": "A magazine full of conspiracy theories with unknown sources. You're free to read it, but don't blindly believe those."
+        },
+        {
+            "Key": 795610129,
+            "NameJp": "謎の健康グッズ",
+            "NameEn": "Mystery Health Goods",
+            "DescriptionJp": "ゲルマニウムで作ったと言われているブレスレット。健康に良いとのことだが……。",
+            "DescriptionEn": "A bracelet supposedly made of germanium. It's claimed to be good for health, but..."
+        },
+        {
+            "Key": 342194746,
+            "NameJp": "謎のお札",
+            "NameEn": "Mystery Talisman",
+            "DescriptionJp": "安全運転を祈るお札。不思議なことに車に貼り付けると、運転するときに良いことが起こるという。",
+            "DescriptionEn": "A talisman for traffic safety. Strangely enough, it is said that if you stick it in your car, good things will happen when you drive."
+        },
+        {
+            "Key": 1854644343,
+            "NameKr": "키보토스・미확인 미스테리",
+            "DescriptionKr": "키보토스・미확인 미스테리 이벤트에서 획득 가능",
+            "NameJp": "キヴォトス・未確認ミステリー",
+            "DescriptionJp": "キヴォトス・未確認ミステリーイベントにて獲得可能",
+            "NameEn": "Kivotos Unsolved Mysteries",
+            "DescriptionEn": "Obtainable in the Kivotos Unsolved Mysteries Event"
+        },
+        {
+            "Key": 2838352374,
+            "NameKr": "이벤트 챌린지 스테이지 1 힌트",
+            "DescriptionKr": "동일한 모습의 츠치노코 중 진짜 츠치노코를 찾아보세요.\n가짜 츠치노코의 해로운 효과는 해로운 효과 제거 스킬로 제거되지 않지만, 진짜 츠치노코의 해로운 효과를 제거하면 함께 제거됩니다.\n가짜 츠치노코는 조금 이상하게 행동합니다.\n진짜 츠치노코를 찾고 해로운 효과를 제거해서 적을 처치하세요,",
+            "NameJp": "イベントチャレンジステージ1ヒント",
+            "DescriptionJp": "同じ姿のツチノコの中から本物のツチノコを探しましょう。\n偽物のツチノコの弱体状態は弱体状態を解除するスキルで解除されませんが、本物のツチノコの弱体状態を解除すると同時に消えます。\n偽物のツチノコは本物とは違う動きを見せます。\n本物のツチノコを見つけ出し、弱体状態を解除して敵を倒しましょう。",
+            "NameEn": "Event Challenge Stage 1 Hint",
+            "DescriptionEn": "Find the real Tsuchinoko among the others. The fake Tsuchinoko's debuff cannot be removed by debuff-removal skills, but if you remove the real Tsuchinoko's debuff, it disappears. The fake Tsuchinoko behaves slightly differently. Find the real Tsuchinoko, remove the debuff, and defeat the enemy."
+        },
+        {
+            "Key": 951156375,
+            "NameKr": "이벤트 챌린지 스테ージ 2 힌트",
+            "DescriptionKr": "방어력 감소 효과를 활용하여 코노카를 처치하세요.",
+            "NameJp": "イベントチャレンジステージ2ヒント",
+            "DescriptionJp": "防御力減少スキルを活用して、コノカを攻略しましょう。",
+            "NameEn": "Event Challenge Stage 2 Hint",
+            "DescriptionEn": "Use efense reduction skills to take down Konoka."
+        },
+        {
+            "Key": 2068938700,
+            "NameKr": "이벤트 챌린지 스테이지 3 힌트",
+            "DescriptionKr": "레나는 범위 내 적을 목격하면 용기가 감소합니다. 레나가 적을 목격하기 전에 빠르게 처치하세요.",
+            "NameJp": "イベントチャレンジステージ3ヒント",
+            "DescriptionJp": "レナは範囲内の敵を目にすると勇気が減少します。勇気がなくなる前に素早く倒しましょう。",
+            "NameEn": "Event Challenge Stage 3 Hint",
+            "DescriptionEn": "Rena's courage decreases when she sees an enemy within range. Defeat her quickly before her courage is gone."
+        },
+        {
+            "Key": 2249316847,
+            "NameKr": "이벤트 챌린지 스테이지 4 힌트",
+            "DescriptionKr": "코노카가 적의 Ex스킬에 피격되면 받는 대미지량이 증가하는 해로운 효과를 얻습니다.\n코노카에게 적용된 해로운 효과를 해로운 효과 제거 스킬을 통해 제거하면 코노카가 Ex 스킬을 사용하며, 코노카의 Ex스킬은 방어 타입이 특수 장갑인 적에게 매우 큰 피해를 입힙니다.\n코노카를 도와 적들을 쓰러트리세요.",
+            "NameJp": "イベントチャレンジステージ4ヒント",
+            "DescriptionJp": "コノカが敵のEXスキルを受けると、被ダメージ量が増加する弱体状態が付与されます。\nコノカに付与された弱体状態を弱体状態解除スキルで解除すると、コノカがEXスキルを使用します。コノカのEXスキルは防御タイプが特殊装甲の敵にとても大きなダメージを与えます。\nコノカを手伝って敵を倒しましょう。",
+            "NameEn": "Event Challenge Stage 4 Hint",
+            "DescriptionEn": "When Konoka is hit by an enemy EX Skill, she gains a debuff that increases damage taken. If you remove that debuff with a debuff removal skill, Konoka uses her EX Skill. Konoka's EX Skill deals very high damage to enemies with Special armor. Help Konoka defeat the enemies."
+        },
+        {
+            "Key": 1234369671,
+            "NameKr": "슈가러시 커스텀 LP 음반",
+            "DescriptionKr": "합주 연습 중 처음으로 완곡에 성공한 순간을 담은 LP 음반. 서툴지만 청량한 음악이 가득 담겨있다. 거기에, 생각지도 못한 목소리까지도…….",
+            "NameJp": "シュガーラッシュカスタムLP盤",
+            "DescriptionJp": "初めて完奏した時の演奏を録音したLP盤。初々しながらも彼女らしさが感じられる。曲だけではない意外なものまで収録されているようで……？",
+            "NameEn": "Sugar Rush Custom LP",
+            "DescriptionEn": "This LP contains a recording the first complete performance of the piece. It's fresh and youthful, yet it clearly shows her unique style. It seems to include some unexpected things besides the song itself...?"
+        },
+        {
+            "Key": 602681022,
+            "NameKr": "꽉 찬 연습장",
+            "DescriptionKr": "키라라가 사용한 연습장. 모든 페이지가 공부의 흔적으로 가득 차 있다. 다만 공부의 흔적만 있는 것은 아닌 듯 한데……. ",
+            "NameJp": "思い出が詰まったノート",
+            "DescriptionJp": "キララのリングノート。ページにはぎっしりと勉強の跡が残っている。ただ、それ以外の筆跡もあるようで……？",
+            "NameEn": "Memory-filled Notebook",
+            "DescriptionEn": "Kirara's notebook. Its pages are filled with traces of diligent studying, but there seem to be other kinds of writing in there as well…?"
+        },
+        {
+            "Key": 3145236472,
+            "NameKr": "클레이모어 악력기",
+            "DescriptionKr": "모에가 애용하는 대인 지뢰…… 의 격발기를 개조해서 만든 악력기. 뇌관을 제거해서 폭발하진 않지만, 두꺼운 용수철이 손에 가하는 압력만큼은 폭탄만큼이나 파멸적이라고.",
+            "NameJp": "クレイモアハンドグリップ",
+            "DescriptionJp": "モエが愛用するクレイモアの起爆スイッチを改造して作ったハンドグリップ。雷管を外しているから起爆することはないが、太いスプリングの力は爆弾のように破滅的だとか。",
+            "NameEn": "Claymore Hand Grip",
+            "DescriptionEn": "This handgrip was made by modifying the detonation switch of Moe's favorite Claymore mine. It doesn't explode because the detonator has been removed, but the force of the heavy spring is said to be as devastating as a bomb."
+        },
+        {
+            "Key": 3397298241,
+            "NameKr": "아스나 스타일 헤어타이",
+            "DescriptionKr": "청소할 때도, '청소'할 때도 아스나가 항상 착용하고 있는 푸른색 리본 모양 헤어타이.",
+            "NameJp": "アスナスタイルのリボン",
+            "DescriptionJp": "掃除するときも、「お掃除」するときも、常にアスナがつけている青いリボン。",
+            "NameEn": "Asuna-style Ribbon",
+            "DescriptionEn": "Whether she's cleaning or \"clearing\", Asuna always wears a blue ribbon."
+            }
+
 
     ]
 }

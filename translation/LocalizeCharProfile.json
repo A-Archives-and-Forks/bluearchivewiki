@@ -4586,7 +4586,7 @@
             "HobbyEn": "Watching TV, modifying home appliances",
             "ProfileIntroductionEn": "A member of the Wildhunt Art Academy, Fuyu is the sales and technical specialist for unofficial smuggling group, Free Trade Cartel. She serves as the liaison for the Free Trade Cartel, handling requests and negotiating directly with clients. Fuyu seems confident and composed, but facing unexpected situations can leave her shaken and unsure of herself.",
             "WeaponNameEn": "Friendly Offer",
-            "WeaponDescEn": "Fuyu's suspicious machine pistol of unknown make. Flasing this to customers tends to make them accept Fuyu's proposal.",
+            "WeaponDescEn": "Fuyu's suspicious machine pistol of unknown make. Flashing this to customers tends to make them accept Fuyu's proposal.",
             "ReleaseDateJp": "2025/09/24",
             "ReleaseDateGl": null
         },
@@ -4663,7 +4663,7 @@
             "WeaponNameEn": "Pinch Hitter",
             "WeaponDescEn": "Rabu's shotgun.\n\nAlthough often used as a bat, it's kept well-maintained.",
             "ReleaseDateJp": "2025/10/22",
-            "ReleaseDateGl": null,
+            "ReleaseDateGl": "2026/03/10",
             "FragmentSources": "* Event: [[Magical Girl Heavy Caliber ～Era's Ambition and the Right to Justice～]]"
         },
 
@@ -4914,6 +4914,65 @@
             "WeaponNameEn": "Mulli・Gun",
             "WeaponDescEn": "Machine gun that has been through all sorts of hardships together with Koyuki.\n\nUnlike the troublemaker owner, it remains her staunch and dependable support... though in reality, it might just not be thinking about anything at all.",
             "ReleaseDateJp": "2026/03/04",
+            "ReleaseDateGl": null
+        },
+
+        {
+            "CharacterId": 10137,
+            "CharacterPool": null,
+            "FamilyNameEn": "Shima",
+            "PersonalNameEn": "Konoka",
+            "VariantNameEn": null,
+            "CharacterAgeEn": null,
+            "CharHeightEn": null,
+            "DesignerNameEn": null,
+            "IllustratorNameEn": null,
+            "LobbyIllustratorNameEn": null,
+            "VoiceEn": "Sembongi Sayaka",
+            "HobbyEn": "Using a massage chair, solving newspaper crossword puzzles",
+            "ProfileIntroductionEn": "A member of the Valkyrie Police Academy and the Deputy Bureau Chief of the Public Peace Bureau. Although Konoka's appearance sometimes leads to her being mistaken for a suspect, she is a highly capable police officer. She is the lead expert at tracing psychology and criminal behavior at the Public Peace Bureau, yet she doesn't seem to do it consciously. Konoka is also said to be the student who has accumulated most promotions and most demotions within the Bureau.",
+            "WeaponNameEn": "Tool",
+            "WeaponDescEn": "Konoka's tool of the trade. It has various uses, such as being a pillow when taking naps.",
+            "ReleaseDateJp": "2026/03/18",
+            "ReleaseDateGl": null
+        },
+        {
+            "CharacterId": 10138,
+            "CharacterPool": null,
+            "FamilyNameEn": "Kinui",
+            "PersonalNameEn": "Rena",
+            "VariantNameEn": null,
+            "CharacterAgeEn": null,
+            "CharHeightEn": null,
+            "DesignerNameEn": null,
+            "IllustratorNameEn": null,
+            "LobbyIllustratorNameEn": null,
+            "VoiceEn": "Umezawa Megu",
+            "HobbyEn": "Making costumes and accessories",
+            "ProfileIntroductionEn": "A member of the Occult Investigation Society at Wildhunt Art Academy, which studies the paranormal aspects of art. She was assigned to room 404 in building 4, which led to her involvement in the Occult Investigation Society's activities. While she claims anything paranormal is a sham, it seems she herself is unknowingly becoming immersed in the occult world.",
+            "WeaponNameEn": "Self-defense sewing machine gun",
+            "WeaponDescEn": "Petite pistol that fits perfectly in Rena's hand. She customized it with a cute design, but it hurts just like any other gun if you get shot.",
+            "ReleaseDateJp": "2026/03/18",
+            "ReleaseDateGl": null
+        },
+
+        {
+            "CharacterId": 20057,
+            "CharacterPool": null,
+            "FamilyNameEn": "Murokasa",
+            "PersonalNameEn": "Akane",
+            "VariantNameEn": "School Uniform",
+            "CharacterAgeEn": null,
+            "CharHeightEn": null,
+            "DesignerNameEn": null,
+            "IllustratorNameEn": null,
+            "LobbyIllustratorNameEn": "DoReMi",
+            "VoiceEn": "Hara Yumi",
+            "HobbyEn": "Cleaning",
+            "ProfileIntroductionEn": "A member of the Millennium Science School, and an agent of \"C&C\", Akane changed into a bunny girl outfit for an infiltration mission.\n\nEven in an unfamiliar environment, she can be seen calmly carrying out her mission, taking the initiative in preparing her bunny outfit and clearing obstacles by detonating C4. She seems excited by her unusual attire, occasinaly flashing a mischievous smile.",
+            "WeaponNameEn": "Silent Solution",
+            "WeaponDescEn": "A pistol that Akane always carries.\n\nNothing is more suitable for an infiltration mission.",
+            "ReleaseDateJp": "2026/04/01",
             "ReleaseDateGl": null
         }
     ]

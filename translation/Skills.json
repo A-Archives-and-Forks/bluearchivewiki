@@ -1207,6 +1207,11 @@
             "DescriptionEn": "Every $1, deal $2 damage to one enemy."
         },
         {
+            "GroupId": "AsunaGearPublic01",
+            "NameEn": "I'm gonna fire! +",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy.\n(Damage is multiplied by $3 in proportion to the target's current HP; the lower the target's HP, the greater the damage)\nIncrease Attack Speed by $4 for $5."
+        },
+        {
             "GroupId": "AsunaPassive01",
             "NameEn": "Does that hurt?",
             "DescriptionEn": "Increase Critical Damage by $1."
@@ -3053,6 +3058,11 @@
             "GroupId": "CH0143Public01",
             "NameEn": "Barrage",
             "DescriptionEn": "Every $1, deal $2 damage to 5 enemies. Inflict Stun status for $3."
+        },
+        {
+            "GroupId": "CH0143GearPublic01",
+            "NameEn": "Barrage +",
+            "DescriptionEn": "Every $1, deal $2 damage to 5 enemies. Inflict Stun status for $3, and inflict $4 Burn damage for $5."
         },
         {
             "GroupId": "CH0143Passive01",
@@ -4924,13 +4934,18 @@
 
         {
             "GroupId": "CH0250Ex01",
-            "NameEn": "Spitting bars",
+            "NameEn": "Historic first verse",
             "DescriptionEn": "Increase the Attack Speed of allies within a circular area around self by $1, and acquire $2 \"Sugar Rush\" for $3. (stacks up to a maximum of 2)"
         },
         {
             "GroupId": "CH0250Public01",
             "NameEn": "Bass tuning",
             "DescriptionEn": "Every $1, increase Attack by $2 for $3."
+        },
+        {
+            "GroupId": "CH0250GearPublic01",
+            "NameEn": "Bass tuning +",
+            "DescriptionEn": "Every $1, increase Attack by $2 for $3.\nIncrease Explosive Efficiency of Striker allies by $4 for $5.\nIf the target has \"Sugar Rush\", instead their Explosive Efficiency by $6 for $7."
         },
         {
             "GroupId": "CH0250Passive01",
@@ -5009,6 +5024,11 @@
             "GroupId": "CH0136Public01",
             "NameEn": "Always sparkling!",
             "DescriptionEn": "Every $1, deal $2 damage to one enemy."
+        },
+        {
+            "GroupId": "CH0136GearPublic01",
+            "NameEn": "Always sparkling! +",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy.\nIf normal attacks are enhanced, also apply Weak Point Exposed for $3.\nWhen attacking an enemy with Weak Point Exposed, deal $4 of Attack as additional damage.\n(This damage can not be a Critical hit)\n(Applies up to a maximum of $5)"
         },
         {
             "GroupId": "CH0136Passive01",
@@ -7022,6 +7042,58 @@
             "GroupId": "CH0310ExtraPassive01",
             "NameEn": "The Power of Pajamas",
             "DescriptionEn": "Increase Attack Speed of all allies by $1."
+        },
+
+        {
+            "GroupId": "CH0264Ex01",
+            "NameEn": "Does this qualify as self-defense now?",
+            "DescriptionEn": "Deal $1 damage to enemies within a fan-shaped area. While using the EX Skill, each time you take damage, recover HP by $2 of Healing (up to a maximum of $3 times)."
+        },
+        {
+            "GroupId": "CH0264Public01",
+            "NameEn": "Feels great, doesn't it?",
+            "DescriptionEn": "Every $1, deal $2 damage to one enemy and Taunt them for $3.\nHeal for $4 of Healing."
+        },
+        {
+            "GroupId": "CH0264Passive01",
+            "NameEn": "That was a lifesaver!",
+            "DescriptionEn": "Increase Healing Received by $1."
+        },
+        {
+            "GroupId": "CH0264WeaponPassive01",
+            "NameEn": "That was a lifesaver! +",
+            "DescriptionEn": "Increase HP by $1. Increase Healing Received by $2."
+        },
+        {
+            "GroupId": "CH0264ExtraPassive01",
+            "NameEn": "Go ahead and try me!",
+            "DescriptionEn": "While using the EX Skill, Attack and Defense are increased by $1.\nIf you receive healing effects $2 times while maintaining the EX Skill usage state, reduce EX Skill cost by $3. (reduction active until EX is activated $4 time)"
+        },
+
+        {
+            "GroupId": "CH0305Ex01",
+            "NameEn": "I'll get to the bottom of this!",
+            "DescriptionEn": "Remove $1 debuff from one other ally, and increase their Defense by $2 for $3.\nIncrease Critical Damage of Special students by $4 and increase their Attack by $5 for $6."
+        },
+        {
+            "GroupId": "CH0305Public01",
+            "NameEn": "I'll patch that up for you!",
+            "DescriptionEn": "Every $1, heal the ally with the lowest HP (excluding self) by $2 of Healing.\nHeal self by $3 of Healing."
+        },
+        {
+            "GroupId": "CH0305Passive01",
+            "NameEn": "I'm not scared at all!",
+            "DescriptionEn": "Increase HP by $1."
+        },
+        {
+            "GroupId": "CH0305WeaponPassive01",
+            "NameEn": "I'm not scared at all! +",
+            "DescriptionEn": "Increase Buff Duration by $1. Increase HP by $2."
+        },
+        {
+            "GroupId": "CH0305ExtraPassive01",
+            "NameEn": "You're not scared either, right?!",
+            "DescriptionEn": "Increase Critical Damage for self and allied Special students by $1."
         }
 
     ]

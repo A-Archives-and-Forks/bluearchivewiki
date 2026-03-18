@@ -5700,6 +5700,24 @@
             "Kr": "No.1 ~ No.7 미션 모두 완료",
             "Jp": "No.1〜No.7のミッションを全てクリア",
             "En": "Clear missions 1~7."
+        },
+        {
+            "Key": 3516852384,
+            "Kr": "키보토스・미확인 미스테리 ~미지의 생물, 츠치노코를 찾아서~",
+            "Jp": "キヴォトス・未確認ミステリー～邪を払うツチノコ大調査～",
+            "En": "Kivotos Unsolved Mysteries ～The Great Tsuchinoko Investigation to Ward Off Evil～"
+        },
+        {
+            "Key": 3617072867,
+            "Kr": "키보토스・미확인 미스터리~미지의 생물, 츠치노코를 찾아서~",
+            "Jp": "キヴォトス・未確認ミステリー～邪を払うツチノコ大調査～",
+            "En": "Kivotos Unsolved Mysteries ～The Great Tsuchinoko Investigation to Ward Off Evil～"
+        },
+        {
+            "Key": 3713119761,
+            "Kr": "과학적으로 설명할 수 없는 초자연 현상이 키보토스 각지에서 일어나고 있다! 그리고, 마침내 목격되었다는 전설 속의 생물 츠치노코!\n그 진실을 찾아내기 위해, 탐사반 X 출동이다!",
+            "Jp": "科学では説明できない現象がキヴォトスの各地で発生している。伝説の生物「ツチノコ」の目撃情報を聞きつけて、調査班Xが出動する！",
+            "En": "Unexplained phenomena are occurring throughout Kivotos. Upon hearing reports of sightings of the legendary creature Tsuchinoko, Investigation Team X is dispatched!"
         }
                         
     ]
