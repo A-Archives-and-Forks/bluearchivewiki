@@ -1121,6 +1121,24 @@
       ],
       "challenge_difficulty": "Torment",
       "notes": ""
+    },
+    "32": {
+      "bosses": [
+        [
+          "Light",
+          "Torment"
+        ],
+        [
+          "Heavy",
+          "Torment"
+        ],
+        [
+          "Special",
+          "Insane"
+        ]
+      ],
+      "challenge_difficulty": "Torment",
+      "notes": ""
     }
   }
 }

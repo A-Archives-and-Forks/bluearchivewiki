@@ -15484,7 +15484,50 @@
             "DescriptionJp": "掃除するときも、「お掃除」するときも、常にアスナがつけている青いリボン。",
             "NameEn": "Asuna-style Ribbon",
             "DescriptionEn": "Whether she's cleaning or \"clearing\", Asuna always wears a blue ribbon."
-            }
+        },
+        {
+            "Key": 2723656306,
+            "NameJp": "アカネ（制服）の神名文字",
+            "NameEn": "Akane's (School Uniform) Eleph",
+            "DescriptionJp": "アカネ（制服）の神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Akane (School Uniform)."
+        },
+        {
+            "Key": 1553556072,
+            "NameKr": "페로로지라 야전 격파! 2026",
+            "DescriptionKr": "페로로지라(야전) 대결전의 모든 방어 타입을 Hard 난이도 이상으로 처치",
+            "NameJp": "ペロロジラ（屋外戦）撃破！2026",
+            "DescriptionJp": "大決戦ペロロジラ（屋外戦）の全ての防御タイプを難易度Hard以上で倒す",
+            "NameEn": "Perorodzilla (Outdoors) Defeated! 2026",
+            "DescriptionEn": "Defeat all defense types of Perorodzilla (Outdoors) [[Grand Assault]] at Hard difficulty or higher."
+        },
+        {
+            "Key": 4285707947,
+            "NameKr": "페로로지라 야전 격파! 2026",
+            "DescriptionKr": "페로로지라(야전) 대결전의 모든 방어 타입을 Hardcore 난이도 이상으로 처치",
+            "NameJp": "ペロロジラ（屋外戦）撃破！2026",
+            "DescriptionJp": "大決戦ペロロジラ（屋外戦）の全ての防御タイプを難易度Hardcore以上で倒す",
+            "NameEn": "Perorodzilla (Outdoors) Defeated! 2026",
+            "DescriptionEn": "Defeat all defense types of Perorodzilla (Outdoors) [[Grand Assault]] at Hardcore difficulty or higher."
+        },
+        {
+            "Key": 735149332,
+            "NameKr": "페로로지라 야전 격파! 2026",
+            "DescriptionKr": "페로로지라(야전) 대결전의 모든 방어 타입을 Extreme 난이도 이상으로 처치",
+            "NameJp": "ペロロジラ（屋外戦）撃破！2026",
+            "DescriptionJp": "大決戦ペロロジラ（屋外戦）の全ての防御タイプを難易度Extreme以上で倒す",
+            "NameEn": "Perorodzilla (Outdoors) Defeated! 2026",
+            "DescriptionEn": "Defeat all defense types of Perorodzilla (Outdoors) [[Grand Assault]] at Extreme difficulty or higher."
+        },
+        {
+            "Key": 1199089113,
+            "NameKr": "페로로지라 야전 격파! 2026",
+            "DescriptionKr": "페로로지라(야전) 대결전의 모든 방어 타입을 Insane 난이도 이상으로 처치",
+            "NameJp": "ペロロジラ（屋外戦）撃破！2026",
+            "DescriptionJp": "大決戦ペロロジラ（屋外戦）の全ての防御タイプを難易度Insane以上で倒す",
+            "NameEn": "Perorodzilla (Outdoors) Defeated! 2026",
+            "DescriptionEn": "Defeat all defense types of Perorodzilla (Outdoors) [[Grand Assault]] at Insane difficulty or higher."
+        }
 
 
     ]

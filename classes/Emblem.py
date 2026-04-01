@@ -82,7 +82,7 @@ class Emblem(object):
 
 
         if entry['Category'] == "Favor":
-            name = characters[entry['EmblemParameter']].full_name_en
+            name = characters[entry['EmblemParameter']].full_name_reading_en
             description = f"Reach affection rank {entry['CheckPassCount']} with {characters[entry['EmblemParameter']].wiki_name}"
             emblem_icon = f"Emblem_Icon_Favor_{characters[entry['EmblemParameter']].wiki_name.replace(' ','_')}.png"
 
@@ -98,7 +98,9 @@ class Emblem(object):
                     21: 'Kaitenger, Urban',
                     23: 'Binah, Outdoors',
                     26: 'Hieronymus, Urban',
-                    
+                    29: 'Chesed, Outdoors',
+                    33: 'Shiro & Kuro, Indoors',
+                    35: 'Perorodzilla, Outdoors',
                 }[id]
             text = bosstext(entry['UseAtLocalizeId'])
 

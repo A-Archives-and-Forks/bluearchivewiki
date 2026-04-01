@@ -7077,7 +7077,7 @@
         },
         {
             "GroupId": "CH0305Public01",
-            "NameEn": "I'll patch that up for you!",
+            "NameEn": "I'll tailor it for you!",
             "DescriptionEn": "Every $1, heal the ally with the lowest HP (excluding self) by $2 of Healing.\nHeal self by $3 of Healing."
         },
         {
@@ -7094,6 +7094,32 @@
             "GroupId": "CH0305ExtraPassive01",
             "NameEn": "You're not scared either, right?!",
             "DescriptionEn": "Increase Critical Damage for self and allied Special students by $1."
+        },
+
+        {
+            "GroupId": "CH0307Ex01",
+            "NameEn": "Start with the basics",
+            "DescriptionEn": "Target one enemy; if the enemy has Light armor, increase the amount of Effective damage taken by $1 for $2.\nAdd $3 to your own Base Proficiency for $4.\n(Base Proficiency: Increase damage dealt by normal attacks, Normal Skills, and Sub Skills)"
+        },
+        {
+            "GroupId": "CH0307Public01",
+            "NameEn": "Proceed in order",
+            "DescriptionEn": "When using EX Skill, deal $1 damage to one enemy. (Cooldown: $2)\n(Prioritizes the enemy targeted with the EX Skill)."
+        },
+        {
+            "GroupId": "CH0307Passive01",
+            "NameEn": "Tidy and organized",
+            "DescriptionEn": "Increase Critical Damage by $1."
+        },
+        {
+            "GroupId": "CH0307WeaponPassive01",
+            "NameEn": "Tidy and organized +",
+            "DescriptionEn": "Increase Attack by $1. Increase Critical Damage by $2."
+        },
+        {
+            "GroupId": "CH0307ExtraPassive01",
+            "NameEn": "Because I'm a student",
+            "DescriptionEn": "Increase Critical Damage of all allies by $1."
         }
 
     ]

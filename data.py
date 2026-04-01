@@ -34,7 +34,7 @@ BlueArchiveData = collections.namedtuple(
     'strategymaps','goods', 'stages',
     'raid_stage', 'raid_stage_reward', 'raid_stage_season_reward', 'raid_ranking_reward',
     'world_raid_stage','world_raid_stage_reward', 'world_raid_boss_group', 
-    'interactive_world_raid_stage', 'interactive_world_raid_status_preset', 'interactive_world_raid_boss_group', 'interactive_world_raid_condition', 'interactive_world_raid_skill_description',
+    'interactive_world_raid_stage', 'interactive_world_raid_status_preset', 'interactive_world_raid_boss_group', 'interactive_world_raid_condition', 'interactive_world_raid_skill_description_list',
     'eliminate_raid_stage', 'eliminate_raid_stage_reward', 'eliminate_raid_stage_season_reward', 'eliminate_raid_ranking_reward',
     'multi_floor_raid_stage', 'multi_floor_raid_reward', 'multi_floor_raid_stat_change',
     'time_attack_dungeon', 'time_attack_dungeon_geas', 'time_attack_dungeon_reward',
@@ -175,7 +175,7 @@ def load_data(path_primary, path_secondary, path_translation):
         interactive_world_raid_status_preset=   load_file_grouped(path_primary, 'InteractiveWorldRaidStatusPresetExcelTable.json', key='WorldRaidSeasonId'),
         interactive_world_raid_boss_group=      load_generic(path_primary, 'InteractiveWorldRaidBossGroupExcelTable.json', key='WorldRaidBossGroupId'),
         interactive_world_raid_condition=       load_file_grouped(path_primary, 'InteractiveWorldRaidConditionExcelTable.json', key='WorldRaidSeasonId'),
-        interactive_world_raid_skill_description=load_generic(path_primary, 'InteractiveWorldRaidSkillDescriptionExcelTable.json', key='Id'),
+        interactive_world_raid_skill_description_list=load_generic(path_primary, 'InteractiveWorldRaidSkillDescriptionListExcelTable.json', key='Id'),
         eliminate_raid_stage=       load_file_grouped(path_primary, 'EliminateRaidStageExcelTable.json', 'RaidBossGroup'),#moved out to season data, deprecated 
         eliminate_raid_stage_reward=load_file_grouped(path_primary, 'EliminateRaidStageRewardExcelTable.json', 'GroupId'),
         eliminate_raid_stage_season_reward=load_generic(path_primary, 'EliminateRaidStageSeasonRewardExcelTable.json', key='SeasonRewardId'),
