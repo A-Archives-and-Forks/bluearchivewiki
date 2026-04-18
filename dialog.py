@@ -433,6 +433,7 @@ def get_standard_lines(character, files, dialog_category, maindir=None) -> list[
     character_voice_group = character.costume['CharacterVoiceGroupId']
     character_voice = data.character_voice[character_voice_group]
     character_voice_by_path = {x['Path'][0]:x for x in character_voice if len(x['Path'])}
+    character_voice_by_path_lower = {x['Path'][0].lower():x for x in character_voice if len(x['Path'])}
     character_voice_by_filename_lower = {x['Path'][0].rsplit("/", 1)[-1].lower():x for x in character_voice if len(x['Path'])}
     character_voice_subtitle_by_cvgroup = {x['LocalizeCVGroup']:x for x in data.character_voice_subtitle if x['CharacterVoiceGroupId']==character_voice_group}
     
@@ -475,9 +476,9 @@ def get_standard_lines(character, files, dialog_category, maindir=None) -> list[
 
 
         # Get localization data from character_voice_subtitle
-        if file in character_voice_by_path and character_voice_by_path[file]['LocalizeCVGroup'] in character_voice_subtitle_by_cvgroup:
-            #print(f"File {file} is CharacterVoiceUniqueId {character_voice_by_path[file]['CharacterVoiceUniqueId']}, CVGroup {character_voice_by_path[file]['LocalizeCVGroup']}")
-            subtitle_data = character_voice_subtitle_by_cvgroup[character_voice_by_path[file]['LocalizeCVGroup']]
+        if file.lower() in character_voice_by_path_lower and character_voice_by_path_lower[file.lower()]['LocalizeCVGroup'] in character_voice_subtitle_by_cvgroup:
+            #print(f"File {file} is CharacterVoiceUniqueId {character_voice_by_path_lower[file.lower()]['CharacterVoiceUniqueId']}, CVGroup {character_voice_by_path_lower[file.lower()]['LocalizeCVGroup']}")
+            subtitle_data = character_voice_subtitle_by_cvgroup[character_voice_by_path_lower[file.lower()]['LocalizeCVGroup']]
             if file_wikititle not in dialog_data: dialog_data[file_wikititle] = {}
 
             dialog_data[file_wikititle]['LocalizeCVGroup'] = dialog_data[file_wikititle].get('LocalizeCVGroup', subtitle_data['LocalizeCVGroup'])

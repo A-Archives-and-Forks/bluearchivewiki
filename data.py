@@ -431,8 +431,8 @@ def load_character_subtitle(path_primary, path_secondary, path_translation, file
         try: 
             line['LocalizeJP'] = line_cleanup(line['LocalizeJP'])
 
-            if (line[match_id], line['LocalizeCVGroup']) in da: line['LocalizeEN'] = line_cleanup(da[(line[match_id], line['DialogCategory'])]['LocalizeEN'])
-            elif (line[match_id], line['LocalizeCVGroup']) in ds: line['LocalizeEN'] = line_cleanup(ds[(line[match_id], line['DialogCategory'])]['LocalizeEN'])
+            if (line[match_id], line['LocalizeCVGroup']) in da and da[(line[match_id], line['LocalizeCVGroup'])].get('LocalizeEN','') != '': line['LocalizeEN'] = line_cleanup(da[(line[match_id], line['LocalizeCVGroup'])]['LocalizeEN'])
+            elif (line[match_id], line['LocalizeCVGroup']) in ds: line['LocalizeEN'] = line_cleanup(ds[(line[match_id], line['LocalizeCVGroup'])]['LocalizeEN'])
             elif 'LocalizeEN' not in line: line['LocalizeEN'] = ''
 
         except KeyError:
