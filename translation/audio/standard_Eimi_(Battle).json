@@ -115,7 +115,7 @@
             "DialogCategory": "Formation",
             "VoiceClip": "Eimi_(Battle)_Formation_In_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Tell me the target"
         },
         {
             "CharacterId": 10136,
@@ -124,7 +124,7 @@
             "DialogCategory": "Formation",
             "VoiceClip": "Eimi_(Battle)_Formation_In_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Today, I'm a markswoman"
         },
         {
             "CharacterId": 10136,
@@ -133,7 +133,7 @@
             "DialogCategory": "Formation",
             "VoiceClip": "Eimi_(Battle)_Formation_Select",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Locked on, Sensei's heart! ....Hm, still feels a bit awkward"
         },
         {
             "CharacterId": 10136,
@@ -142,7 +142,7 @@
             "DialogCategory": "Tactic",
             "VoiceClip": "Eimi_(Battle)_Tactic_Defeat_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Why..."
         },
         {
             "CharacterId": 10136,
@@ -151,7 +151,7 @@
             "DialogCategory": "Tactic",
             "VoiceClip": "Eimi_(Battle)_Tactic_Defeat_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Was the output... Not enough?"
         },
         {
             "CharacterId": 10136,
@@ -160,7 +160,7 @@
             "DialogCategory": "Tactic",
             "VoiceClip": "Eimi_(Battle)_Tactic_In_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Starting scouting"
         },
         {
             "CharacterId": 10136,
@@ -169,7 +169,7 @@
             "DialogCategory": "Tactic",
             "VoiceClip": "Eimi_(Battle)_Tactic_In_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "The objective is to search and destroy"
         },
         {
             "CharacterId": 10136,
@@ -178,7 +178,7 @@
             "DialogCategory": "Tactic",
             "VoiceClip": "Eimi_(Battle)_Tactic_Victory_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "What do you think, Sensei? Job well done, huh?"
         },
         {
             "CharacterId": 10136,
@@ -187,7 +187,7 @@
             "DialogCategory": "Tactic",
             "VoiceClip": "Eimi_(Battle)_Tactic_Victory_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "This place is safe now"
         },
         {
             "CharacterId": 10136,
@@ -196,7 +196,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Buffed_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Thank you, please keep it up"
         },
         {
             "CharacterId": 10136,
@@ -214,7 +214,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Covered_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "I'll take cover"
         },
         {
             "CharacterId": 10136,
@@ -232,7 +232,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Damage_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "It hurts..."
         },
         {
             "CharacterId": 10136,
@@ -241,7 +241,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Damage_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Stay strong..."
         },
         {
             "CharacterId": 10136,
@@ -250,7 +250,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Defense_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Attack nullified"
         },
         {
             "CharacterId": 10136,
@@ -259,7 +259,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_In_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Leave the back to me"
         },
         {
             "CharacterId": 10136,
@@ -268,7 +268,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_In_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Checking for signs of abnormalities"
         },
         {
             "CharacterId": 10136,
@@ -277,7 +277,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Move_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "I'm heading to the next area"
         },
         {
             "CharacterId": 10136,
@@ -286,7 +286,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Move_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Area capture, success"
         },
         {
             "CharacterId": 10136,
@@ -304,7 +304,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Retire",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Can I.. keep on fighting?"
         },
         {
             "CharacterId": 10136,
@@ -322,7 +322,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Shout_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "I'll shoot"
         },
         {
             "CharacterId": 10136,
@@ -331,7 +331,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Shout_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Watch out"
         },
         {
             "CharacterId": 10136,
@@ -349,7 +349,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Victory_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Did you see? Sensei. I did it."
         },
         {
             "CharacterId": 10136,
@@ -358,7 +358,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Eimi_(Battle)_Battle_Victory_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "All is good, Sensei. There's no more enemies."
         },
         {
             "CharacterId": 10136,
@@ -367,7 +367,7 @@
             "DialogCategory": "CommonSkill",
             "VoiceClip": "Eimi_(Battle)_CommonSkill",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "This might be a bit hot"
         },
         {
             "CharacterId": 10136,
@@ -376,7 +376,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Eimi_(Battle)_ExSkill_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Eliminating the target"
         },
         {
             "CharacterId": 10136,
@@ -385,7 +385,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Eimi_(Battle)_ExSkill_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "On to the next target"
         },
         {
             "CharacterId": 10136,
@@ -394,7 +394,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Eimi_(Battle)_ExSkill_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Yeah, it's a bit warm"
         },
         {
             "CharacterId": 10136,
@@ -403,7 +403,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Eimi_(Battle)_ExSkill_Level_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Mhm, I'll give this my best"
         },
         {
             "CharacterId": 10136,
@@ -421,7 +421,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Eimi_(Battle)_ExSkill_Level_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Over there"
         },
         {
             "CharacterId": 10136,
@@ -430,7 +430,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Eimi_(Battle)_Growup_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Have I grown a bit..?"
         },
         {
             "CharacterId": 10136,
@@ -439,7 +439,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Eimi_(Battle)_Growup_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "It'd be nice if I've grown. For my operations, too"
         },
         {
             "CharacterId": 10136,
@@ -448,7 +448,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Eimi_(Battle)_Growup_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Thank you, Sensei. I've gotten stronger, thanks to you"
         },
         {
             "CharacterId": 10136,
@@ -457,7 +457,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Eimi_(Battle)_Growup_4",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Have I changed? They say you change with the people to meet"
         },
         {
             "CharacterId": 10136,
@@ -466,7 +466,7 @@
             "DialogCategory": "Relationship",
             "VoiceClip": "Eimi_(Battle)_Relationship_Up_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Uhm... It might be a bit late to say this... but I'm aware I sometimes do things a bit... differently. So I'd appreciate it if you could keep me in check."
         },
         {
             "CharacterId": 10136,
@@ -475,7 +475,7 @@
             "DialogCategory": "Relationship",
             "VoiceClip": "Eimi_(Battle)_Relationship_Up_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Come, closer please. See? Isn't it just nice when we're touching? Feeling each other's body warmth is simply logical, don't you think?"
         },
         {
             "CharacterId": 10136,

@@ -7120,7 +7120,91 @@
             "GroupId": "CH0307ExtraPassive01",
             "NameEn": "Because I'm a student",
             "DescriptionEn": "Increase Critical Damage of all allies by $1."
+        },
+
+        {
+            "GroupId": "CH0172Ex01",
+            "NameEn": "CSAR",
+            "DescriptionEn": "Remove $1 debuff from one ally.\nIncrease damage dealt by allies' EX skills within a circular area centered on yourself by $2 for $3, and if the target is an Attacker, grant them 1 Spotting.\n(Spotting stacks up to a maximum of 6)"
+        },
+        {
+            "GroupId": "CH0172Public01",
+            "NameEn": "Broken Arrow",
+            "DescriptionEn": "Every $1, deal $2 damage to 3 enemies.\nInflict $3 Burn damage over time for $4."
+        },
+        {
+            "GroupId": "CH0172Passive01",
+            "NameEn": "Firearms proficiency",
+            "DescriptionEn": "Increase Firing Range by $1 and Attack by $2."
+        },
+        {
+            "GroupId": "CH0172WeaponPassive01",
+            "NameEn": "Firearms proficiency +",
+            "DescriptionEn": "Increase Buff Duration by $1. Increase Firing Range by $2 and Attack by $3."
+        },
+        {
+            "GroupId": "CH0172ExtraPassive01",
+            "NameEn": "Platoon caretaker",
+            "DescriptionEn": "When granting a buff effect to an ally with your EX Skill, for each Spotting stack on the entire team, increase EX Skill damage bonus by $1 for $2. (up to a maximum of 6 stacks)"
+        },
+
+        {
+            "GroupId": "CH0173Ex01",
+            "NameEn": "Tactical shield, deployed",
+            "DescriptionEn": "Reload instantly after skill activation.\nActivate a tactical shield effect of $1 Healing for $2, change to Tactical Defense state while the tactical shield is active.\n(Tactical Shield: When the effect ends, restore HP by $3 of the remaining shield amount. If another shield effect is applied while you have a Tactical Shield, instead of applying the shield, restore Tactical Shield by $4 of Healing)"
+        },
+        {
+            "GroupId": "CH0173ExtraPassive02",
+            "NameEn": "Ironclad defense",
+            "DescriptionEn": "When Kurumi is in Tactical Defense state, instead of performing normal attacks, when her shield is attacked, she restores her Tactical Shield by $1 of Healing (up to a maximum of $2 times).\nWhen exiting Tactical Defense state, inflict Stun on one enemy for $3."
+        },
+        {
+            "GroupId": "CH0173Public01",
+            "NameEn": "Offensive transition",
+            "DescriptionEn": "When Tactical Defense state is deactivated, reduce one enemy's Critical Damage Resistance by $1 for $2.\nDeal $3 damage."
+        },
+        {
+            "GroupId": "CH0173Passive01",
+            "NameEn": "Ceramic armor",
+            "DescriptionEn": "Increase Defense by $1."
+        },
+        {
+            "GroupId": "CH0173WeaponPassive01",
+            "NameEn": "Ceramic armor +",
+            "DescriptionEn": "Increase HP by $1. Increase Defense by $2."
+        },
+        {
+            "GroupId": "CH0173ExtraPassive01",
+            "NameEn": "The hammer's anvil",
+            "DescriptionEn": "Increase Cost Recovery by $1, and while the Tactical Shield is active, Cost Recovery is further increased by $2.\nIf the Tactical Shield is maintained for $3 or more, when the Tactical Shield ends, increase Attack of the Striker allies by $4 for $5."
+        },
+
+        {
+            "GroupId": "CH0174Ex01",
+            "NameEn": "Designated Marksman Fire",
+            "DescriptionEn": "Enter the Designated Marksman stance, increasing Attack $1, Attack Speed by $2, and normal attack Firing Range by $3 for $4.\nMark one enemy, Otogi will prioritize attacking the marked enemy for $5.\nReload instantly after skill activation."
+        },
+        {
+            "GroupId": "CH0174Public01",
+            "NameEn": "HEIAP Ammo Swap",
+            "DescriptionEn": "Whenever ammo count reaches 0 in the Designated Marksman stance, deal $1 damage to one enemy."
+        },
+        {
+            "GroupId": "CH0174Passive01",
+            "NameEn": "Rapid fire proficiency",
+            "DescriptionEn": "Increase Attack Speed by $1."
+        },
+        {
+            "GroupId": "CH0174WeaponPassive01",
+            "NameEn": "Rapid fire proficiency +",
+            "DescriptionEn": "Increase Attack by $1. Increase Attack Speed by $2."
+        },
+        {
+            "GroupId": "CH0174ExtraPassive01",
+            "NameEn": "Sniper's intuition",
+            "DescriptionEn": "Increase Attack by $1.\nNormal attack and Normal Skill damage is multiplied $2-fold in proportion to the EX Skill damage buff. (the maximum value is applied when the EX Skill damage buff is $3)"
         }
+
 
     ]
 }

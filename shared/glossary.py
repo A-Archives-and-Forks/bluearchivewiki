@@ -48,6 +48,7 @@ CLUBS = {
             'FreeTradeCartel': 'Free Trade Cartel',
             'NicomediasTroop': 'Nicomedia\'s Troop',
             'PublishingDepartment': 'Publishing Department',
+            'FoxSquad': "FOX Squad",
             'EmptyClub': 'no club'
 }
 

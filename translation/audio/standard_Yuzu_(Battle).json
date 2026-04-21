@@ -97,7 +97,7 @@
             "DialogCategory": "Formation",
             "VoiceClip": "Yuzu_(Battle)_Formation_In_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Why am I here..?"
         },
         {
             "CharacterId": 20055,
@@ -106,7 +106,7 @@
             "DialogCategory": "Formation",
             "VoiceClip": "Yuzu_(Battle)_Formation_In_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "I didn't sign up for this..!"
         },
         {
             "CharacterId": 20055,
@@ -115,7 +115,7 @@
             "DialogCategory": "Formation",
             "VoiceClip": "Yuzu_(Battle)_Formation_Select",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "U- Ugh... Please don't drop me..."
         },
         {
             "CharacterId": 20055,
@@ -124,7 +124,7 @@
             "DialogCategory": "CommonSkill",
             "VoiceClip": "Yuzu_(Battle)_CommonSkill",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Match the timing..!"
         },
         {
             "CharacterId": 20055,
@@ -133,7 +133,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Yuzu_(Battle)_ExSkill_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "It's okay, I've done this before..!"
         },
         {
             "CharacterId": 20055,
@@ -142,7 +142,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Yuzu_(Battle)_ExSkill_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "This time... I'll protect everyone!"
         },
         {
             "CharacterId": 20055,
@@ -151,7 +151,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Yuzu_(Battle)_ExSkill_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "My body remembers... I can do this!"
         },
         {
             "CharacterId": 20055,
@@ -160,7 +160,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Yuzu_(Battle)_ExSkill_Level_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "I- I'll give support!"
         },
         {
             "CharacterId": 20055,
@@ -169,7 +169,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Yuzu_(Battle)_ExSkill_Level_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Ugh....!!!"
         },
         {
             "CharacterId": 20055,
@@ -178,7 +178,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Yuzu_(Battle)_ExSkill_Level_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "I'm scared... But even so..!"
         },
         {
             "CharacterId": 20055,
@@ -187,7 +187,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Yuzu_(Battle)_Growup_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Victory is ours..!"
         },
         {
             "CharacterId": 20055,
@@ -196,7 +196,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Yuzu_(Battle)_Growup_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "I have to... I have to get stronger..! I don't know when I'll get called after all... Ugh..."
         },
         {
             "CharacterId": 20055,
@@ -205,7 +205,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Yuzu_(Battle)_Growup_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "I am scared, but... not nervous... Is this the power of courage?"
         },
         {
             "CharacterId": 20055,
@@ -214,7 +214,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Yuzu_(Battle)_Growup_4",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Even if I can't move foward... I will never ever, back down..."
         },
         {
             "CharacterId": 20055,
@@ -223,7 +223,7 @@
             "DialogCategory": "Relationship",
             "VoiceClip": "Yuzu_(Battle)_Relationship_Up_1",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Uhm... If you're watching then... It's not so embarassing..."
         },
         {
             "CharacterId": 20055,
@@ -232,7 +232,7 @@
             "DialogCategory": "Relationship",
             "VoiceClip": "Yuzu_(Battle)_Relationship_Up_2",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Sensei... Uh- Uhm... Want to play a game with me?"
         },
         {
             "CharacterId": 20055,
@@ -241,7 +241,7 @@
             "DialogCategory": "Relationship",
             "VoiceClip": "Yuzu_(Battle)_Relationship_Up_3",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Uhm... Can we... Hold hands again..?"
         },
         {
             "CharacterId": 20055,
@@ -250,7 +250,7 @@
             "DialogCategory": "Relationship",
             "VoiceClip": "Yuzu_(Battle)_Relationship_Up_4",
             "LocalizeJP": "",
-            "LocalizeEN": ""
+            "LocalizeEN": "Outside is scary... But you are there, then I..."
         }
     ]
 }

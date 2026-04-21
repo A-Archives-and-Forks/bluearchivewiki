@@ -7,7 +7,7 @@
             "DialogCategory": "Formation",
             "VoiceClip": "Marina_Formation_In_1",
             "LocalizeJP": "良い判断だ、先生。",
-            "LocalizeEN": "Good decision, sir."
+            "LocalizeEN": "Good decision, Sensei."
         },
         {
             "CharacterId": 10037,
@@ -142,7 +142,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Marina_Battle_Defense_1",
             "LocalizeJP": "甘い！甘すぎる！",
-            "LocalizeEN": "sweet, too sweet"
+            "LocalizeEN": "Weak! Weak, I say!"
         },
         {
             "CharacterId": 10037,
@@ -187,7 +187,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Marina_Battle_Recovery_1",
             "LocalizeJP": "支援に感謝する、姉妹よ。",
-            "LocalizeEN": "Thank you for your support. Sister."
+            "LocalizeEN": "Thank you for your support, Sister."
         },
         {
             "CharacterId": 10037,
@@ -241,7 +241,7 @@
             "DialogCategory": "Battle",
             "VoiceClip": "Marina_Battle_Victory_1",
             "LocalizeJP": "諸君、よくやった。素晴らしい！",
-            "LocalizeEN": "Well done guys. wonderful."
+            "LocalizeEN": "Soldiers! Well done! Excellent!"
         },
         {
             "CharacterId": 10037,
@@ -259,7 +259,7 @@
             "DialogCategory": "CommonSkill",
             "VoiceClip": "Marina_CommonSkill",
             "LocalizeJP": "甘い！",
-            "LocalizeEN": "Sweet."
+            "LocalizeEN": "Too weak!"
         },
         {
             "CharacterId": 10037,
@@ -304,7 +304,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Marina_ExSkill_Level_2",
             "LocalizeJP": "勇敢に行くぞ！",
-            "LocalizeEN": "I'll be brave."
+            "LocalizeEN": "Charge bravely!"
         },
         {
             "CharacterId": 10037,
@@ -313,7 +313,7 @@
             "DialogCategory": "ExSkill",
             "VoiceClip": "Marina_ExSkill_Level_3",
             "LocalizeJP": "前方へ、突撃！",
-            "LocalizeEN": "Charge forward."
+            "LocalizeEN": "Charge forward!"
         },
         {
             "CharacterId": 10037,
@@ -322,7 +322,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Marina_Growup_1",
             "LocalizeJP": "今日の分の配給か？",
-            "LocalizeEN": "Ration for today?"
+            "LocalizeEN": "Is this today's ration?"
         },
         {
             "CharacterId": 10037,
@@ -331,7 +331,7 @@
             "DialogCategory": "Growup",
             "VoiceClip": "Marina_Growup_2",
             "LocalizeJP": "これなら……もっと素早く突撃ができそうだ！",
-            "LocalizeEN": "This would allow us to attack more quickly."
+            "LocalizeEN": "With this... I can go even faster when I charge people!"
         },
         {
             "CharacterId": 10037,

@@ -451,7 +451,10 @@ def generate():
 
         for shop in data.event_content_shop_info[args['event_season']]:
             shop = shop
-            if shop['CostParcelType'][0] == 'Item':
+            if len(shop['CostParcelType']) == 0:
+                print(f"Shop {shop['CategoryType']} has no cost parcel type, skipping")
+                continue
+            elif shop['CostParcelType'][0] == 'Item':
                 shop['wiki_currency_name'] = items[shop['CostParcelId'][0]].name_en
             elif shop['CostParcelType'][0] == 'Currency':
                 shop['wiki_currency_name'] = data.etc_localization[data.currencies[shop['CostParcelId'][0]]['LocalizeEtcId']]['NameEn']

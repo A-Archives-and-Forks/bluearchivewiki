@@ -2024,5 +2024,25 @@
         "NameEnGlobal": "",
         "NameEnGlobalRerun": "",
         "Notes": ""
+    },
+    "Niko": {
+        "Characters": [
+            "Niko"
+        ],
+        "NameJp": "こちらFOX2、真心はこの胸に",
+        "NameEn": "",
+        "NameEnGlobal": "",
+        "NameEnGlobalRerun": "",
+        "Notes": ""
+    },
+    "Kurumi": {
+        "Characters": [
+            "Kurumi"
+        ],
+        "NameJp": "こちらFOX3、経験はこの脚に",
+        "NameEn": "",
+        "NameEnGlobal": "",
+        "NameEnGlobalRerun": "",
+        "Notes": ""
     }
 }

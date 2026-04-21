@@ -1121,21 +1121,6 @@
         "lastname": "",
         "variant": null
     },
-    "CH0172": {
-        "firstname": "Niko",
-        "lastname": "",
-        "variant": null
-    },
-    "CH0173": {
-        "firstname": "Kurumi",
-        "lastname": "",
-        "variant": null
-    },
-    "CH0174": {
-        "firstname": "Otogi",
-        "lastname": "",
-        "variant": null
-    },
     "CH0189": {
         "firstname": "Serika",
         "lastname": "",
@@ -1282,7 +1267,7 @@
         "variant": null
     },
     "NP0115": {
-        "firstname": "Decalcomania",
+        "firstname": "Francis",
         "lastname": "",
         "variant": null
     },
@@ -1419,7 +1404,7 @@
         "variant": "Guide"
     },
     "NP0182": {
-        "firstname": "Hyakkiyako Rickshaw Student",
+        "firstname": "Natsuki",
         "lastname": "",
         "variant": null
     },
@@ -2152,6 +2137,47 @@
         "firstname": "Malkuth",
         "lastname": "",
         "variant": "Decagrammaton, Damaged"
+    },
+    "NP0265": {
+        "firstname": "Orwell",
+        "lastname": "",
+        "variant": null
+    },
+    "NP0289": {
+        "firstname": "Decalcomania",
+        "lastname": "",
+        "variant": null
+    },
+    "NP0290": {
+        "firstname": "Student Council President",
+        "lastname": "",
+        "variant": "False"
+    },
+    "NP0291": {
+        "firstname": "Rin",
+        "lastname": "",
+        "variant": "Casual"
+    },
+    "NP0292": {
+        "firstname": "Kaya",
+        "lastname": "",
+        "variant": "Prisoner"
+    },
+    "NP0293": {
+        "firstname": "Yukino",
+        "lastname": "",
+        "variant": "Unarmed"
+    },
+    "NP0294": {
+        "firstname": "Track and Field Team Member",
+        "lastname": "",
+        "variant": null
+    },
+    "NP0295": {
+        "firstname": "Kunekune",
+        "lastname": "",
+        "variant": null
     }
+    
 }
 

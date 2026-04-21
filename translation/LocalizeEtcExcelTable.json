@@ -15527,8 +15527,663 @@
             "DescriptionJp": "大決戦ペロロジラ（屋外戦）の全ての防御タイプを難易度Insane以上で倒す",
             "NameEn": "Perorodzilla (Outdoors) Defeated! 2026",
             "DescriptionEn": "Defeat all defense types of Perorodzilla (Outdoors) [[Grand Assault]] at Insane difficulty or higher."
-        }
+        },
+        {
+            "Key": 2317353488,
+            "NameKr": "수송선의 현장",
+            "DescriptionKr": "(X)",
+            "NameJp": "輸送船現場",
+            "DescriptionJp": "（X）",
+            "NameEn": "Carrier Control Room",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 2329155622,
+            "NameKr": "수송선의 일상",
+            "DescriptionKr": "(X)",
+            "NameJp": "輸送船の日常",
+            "DescriptionJp": "（X）",
+            "NameEn": "Carrier Living Quarters",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 1364517965,
+            "NameJp": "ニコの神名文字",
+            "NameEn": "Niko's Eleph",
+            "DescriptionJp": "ニコの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Niko."
+        },
+        {
+            "Key": 3389049237,
+            "NameJp": "クルミの神名文字",
+            "NameEn": "Kurumi's Eleph",
+            "DescriptionJp": "クルミの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Kurumi."
+        },
+        {
+            "Key": 3420387445,
+            "NameJp": "オトギの神名文字",
+            "NameEn": "Otogi's Eleph",
+            "DescriptionJp": "オトギの神秘が詰まった神名文字。",
+            "DescriptionEn": "The mystical Eleph of Otogi."
+        },
+        {
+            "Key": 4274419611,
+            "NameJp": "イベントPt",
+            "NameEn": "Event Points",
+            "DescriptionJp": "イベントで入手できるポイント。たくさん手に入れることで、様々な報酬を獲得できる。",
+            "DescriptionEn": "Points obtained through events. Acquiring many allows you to get various rewards."
+        },
+        {
+            "Key": 1584859398,
+            "NameJp": "クーリングパック",
+            "NameEn": "Cooling Pack",
+            "DescriptionJp": "衝撃を加えると瞬時に冷却効果を発揮するクーリングパック。暑い夏の日の必需品。",
+            "DescriptionEn": "A cooling pack that instantly provides a cooling effect when squeezed. An essential item on hot summer days."
+        },
+        {
+            "Key": 3389848340,
+            "NameJp": "SRT小隊用レーション",
+            "NameEn": "SRT Combat Ration",
+            "DescriptionJp": "SRT学園で支給されていた小隊用レーション。熱湯を注いで待てば簡単に食事ができる。保存性が高く、SRT学園閉鎖後も時折ブラックマーケットで取引されている。",
+            "DescriptionEn": "Combat rations that were provided at SRT Academy. Simply pour in hot water and wait for an easy meal. Highly preservable and occasionally traded on the black market even after SRT Academy's closure."
+        },
+        {
+            "Key": 3771667791,
+            "NameJp": "キュウリ味の歯磨き粉",
+            "NameEn": "Cucumber-Flavored Toothpaste",
+            "DescriptionJp": "SRT学園で支給されていた低価格の歯磨き粉。キュウリのさわやかな香りが特徴だが、独特すぎて好き嫌いが大きく分かれた。多くの生徒は歯磨きではなく、装備を磨くのに使っていたという……。",
+            "DescriptionEn": "An inexpensive toothpaste provided at SRT Academy. It's characterized by the fresh scent of cucumber, but this unique flavor created a strong divide in opinions. It is said that many students opted not to use it for brushing their teeth, but for polishing their equipment…"
+        },
+        {
+            "Key": 3183815932,
+            "NameJp": "経路図",
+            "NameEn": "Route Map",
+            "DescriptionJp": "容疑者の移動経路が記されている地図。縮尺は小さいが、主な道順は確認できる。",
+            "DescriptionEn": "A map showing the suspect's movement path. While the scale is small, the main route can be confirmed."
+        },
+        {
+            "Key": 207833206,
+            "NameJp": "乱数が書かれたメモ",
+            "NameEn": "Memo With Random Numbers",
+            "DescriptionJp": "謎の乱数が書かれたメモ。規則性があるかもしれない。よく見て見よう。",
+            "DescriptionEn": "A memo with mysterious random numbers. There might be a pattern. Let's look closely."
+        },
+        {
+            "Key": 2530291965,
+            "NameJp": "爆弾の図面",
+            "NameEn": "Bomb Blueprint",
+            "DescriptionJp": "誰かが手作り爆弾を作るために描いた図面。構造は単純だが、威力は恐ろしい。",
+            "DescriptionEn": "A blueprint drawn by someone to create a homemade bomb. The device is simple but the destructive power is terrifying."
+        },
+        {
+            "Key": 2549037273,
+            "NameJp": "未返却図書と図書カード",
+            "NameEn": "Unreturned Book and Library Card",
+            "DescriptionJp": "破損した図書と該当の貸出に使われた図書カード。事件現場で見つかった。返却期限は過ぎている。",
+            "DescriptionEn": "A damaged book and the library card used for its checkout. Found at the crime scene. The return deadline has already passed."
+        },
+        {
+            "Key": 4148989342,
+            "NameJp": "SDカード",
+            "NameEn": "SD Card",
+            "DescriptionJp": "事件現場で確保したSDカード。そこそこの量、データが入っている。",
+            "DescriptionEn": "An SD card secured from the crime scene. Contains a considerable amount of data."
+        },
+        {
+            "Key": 3540514764,
+            "NameJp": "新聞スクラップ",
+            "NameEn": "Newspaper Clippings",
+            "DescriptionJp": "キヴォトスで発生した様々な事件の記事の切り抜きまとめ。内容にはいくつか共通点が存在するようだ。",
+            "DescriptionEn": "A collection of clippings of various incidents that occurred in Kivotos. There seem to be several commonalities in the content."
+        },
+        {
+            "Key": 3981029618,
+            "NameJp": "使用済みの乗車券",
+            "NameEn": "Used Passage Ticket",
+            "DescriptionJp": "使用済みで穴が空いている乗車券。行き先が推測できる。",
+            "DescriptionEn": "A used passage ticket with a hole punched through it. The destination can be inferred."
+        },
 
+                {
+            "Key": 1489514206,
+            "NameJp": "ヴァルキューレ矯正局備品・テレビ",
+            "NameEn": "Valkyrie Correctional・Television",
+            "DescriptionJp": "ヴァルキューレ矯正局に設置されているテレビ。録画された教育番組が流れている。",
+            "DescriptionEn": "A television installed at the Valkyrie Correctional Facility. Educational programs are being broadcast."
+        },
+        {
+            "Key": 3542329144,
+            "NameJp": "ヴァルキューレ警察学校シリーズ",
+            "NameEn": "Valkyrie Police Academy Set",
+            "DescriptionJp": "キヴォトスの市民の安全を守る、ヴァルキューレ警察学校を訪れてみよう！",
+            "DescriptionEn": "Visit the Valkyrie Police Academy that protects the safety of Kivotos citizens!"
+        },
+        {
+            "Key": 3312448255,
+            "NameJp": "ヴァルキューレ警察学校シリーズ",
+            "NameEn": "Valkyrie Police Academy Furniture"
+        },
+        {
+            "Key": 764885896,
+            "NameJp": "ヴァルキューレ矯正局備品・寝具",
+            "NameEn": "Valkyrie Correctional・Bedding",
+            "DescriptionJp": "ヴァルキューレ矯正局に備えつけられている寝具セット。ふかふかで暖かい。",
+            "DescriptionEn": "A bedding set provided at the Valkyrie Correctional Facility. Soft and warm."
+        },
+        {
+            "Key": 3713514774,
+            "NameJp": "ヴァルキューレ矯正局備品・身長計",
+            "NameEn": "Valkyrie Correctional・Height Chart",
+            "DescriptionJp": "ヴァルキューレ矯正局で写真撮影の際に身長を測るためのボード。どれくらい背が伸びたか分かる。",
+            "DescriptionEn": "A board used to measure height during photo sessions at the Valkyrie Correctional Facility. Shows how much you've grown."
+        },
+        {
+            "Key": 1974220893,
+            "NameJp": "ヴァルキューレ備品・マガジンラック",
+            "NameEn": "Valkyrie Equipment・Magazine Rack",
+            "DescriptionJp": "ヴァルキューレの受付でよく見かける雑誌ラック。意外にも大衆雑誌が多い。",
+            "DescriptionEn": "A magazine rack often seen at Valkyrie's reception. Surprisingly, it contains many popular magazines."
+        },
+        {
+            "Key": 550171980,
+            "NameJp": "ヴァルキューレ備品・リーフレットスタンド",
+            "NameEn": "Valkyrie Equipment・Leaflet Stand",
+            "DescriptionJp": "ヴァルキューレの広報キャンペーン用リーフレットを置くスタンド。教訓的な内容が多い。",
+            "DescriptionEn": "A stand holding leaflets for Valkyrie's public relations campaigns. Most content is educational and instructive."
+        },
+        {
+            "Key": 4134076351,
+            "NameJp": "ヴァルキューレ矯正局収容施設用床材",
+            "NameEn": "Valkyrie Correctional Facility Detention Flooring",
+            "DescriptionJp": "掃除がしやすく、落ち着いた色合いの収容施設用床材。",
+            "DescriptionEn": "Easy-to-clean detention facility flooring in a calm color."
+        },
+        {
+            "Key": 3551325264,
+            "NameJp": "ヴァルキューレ標準床材",
+            "NameEn": "Valkyrie Standard Flooring",
+            "DescriptionJp": "最安値の入札で導入されたものの、それなりに丈夫な標準床材。",
+            "DescriptionEn": "Standard flooring that was installed by the lowest bidder, yet surprisingly durable."
+        },
+        {
+            "Key": 67247938,
+            "NameJp": "ヴァルキューレ大型引き出し（高級）",
+            "NameEn": "Valkyrie Large Chiffonier (Premium)",
+            "DescriptionJp": "ヴァルキューレで使われている大型収納引き出し。なんとなく丁寧に使ってしまう。",
+            "DescriptionEn": "A large storage drawer set used at Valkyrie. Somehow you end up handling it carefully."
+        },
+        {
+            "Key": 1774177817,
+            "NameJp": "ヴァルキューレ中型引き出し（高級）",
+            "NameEn": "Valkyrie Medium Chiffonier (Premium)",
+            "DescriptionJp": "ヴァルキューレで使われている中型収納引き出し。なんとなく丁寧に使ってしまう。",
+            "DescriptionEn": "A medium-sized storage drawer set used at Valkyrie. Somehow you end up handling it carefully."
+        },
+        {
+            "Key": 880699199,
+            "NameJp": "ヴァルキューレ中型引き出し",
+            "NameEn": "Valkyrie Medium Chiffonier",
+            "DescriptionJp": "ヴァルキューレでよく見かける中型引き出し。意外と作りはしっかりしている。",
+            "DescriptionEn": "A medium-sized drawer set often seen at Valkyrie. Surprisingly well-constructed."
+        },
+        {
+            "Key": 3957484169,
+            "NameJp": "ヴァルキューレオフィスチェア",
+            "NameEn": "Valkyrie Office Chair",
+            "DescriptionJp": "ヴァルキューレの内勤用の椅子。リクライニング機能が優秀。",
+            "DescriptionEn": "An office chair used for Valkyrie's internal work. Features excellent reclining function."
+        },
+        {
+            "Key": 4123559801,
+            "NameJp": "ヴァルキューレスツール",
+            "NameEn": "Valkyrie Stool",
+            "DescriptionJp": "ヴァルキューレの事務室に置かれている簡易スツール。長く座るのには向かない。",
+            "DescriptionEn": "A simple stool placed in Valkyrie's office room. Not suitable for long sitting."
+        },
+        {
+            "Key": 2879622347,
+            "NameJp": "ヴァルキューレ標準防爆窓",
+            "NameEn": "Valkyrie Standard Explosion-Proof Window",
+            "DescriptionJp": "ヴァルキューレ標準仕様の防爆窓。大抵の爆発には耐えられる。",
+            "DescriptionEn": "Valkyrie's standard explosion-proof window. Can withstand most explosions."
+        },
+        {
+            "Key": 3164734205,
+            "NameJp": "ヴァルキューレ標準壁",
+            "NameEn": "Valkyrie Standard Wall",
+            "DescriptionJp": "ヴァルキューレの事務室でよく見かける壁パネル。最安入札品だが意外と丈夫である。",
+            "DescriptionEn": "A wall panel often seen in Valkyrie's office. A lowest bidder item, but surprisingly durable."
+        },
+        {
+            "Key": 934528545,
+            "NameJp": "ヴァルキューレ旗章付き壁",
+            "NameEn": "Valkyrie Wall With Flag",
+            "DescriptionJp": "ヴァルキューレの旗章が付いた壁パネル。暇だからといって触ってはいけない。",
+            "DescriptionEn": "A wall panel with Valkyrie's flag emblem. Don't touch it just because you're bored."
+        },
+        {
+            "Key": 2435109289,
+            "NameJp": "ヴァルキューレ矯正局鉄格子",
+            "NameEn": "Valkyrie Correctional Facility Iron Bars",
+            "DescriptionJp": "ヴァルキューレ矯正局でよく見かける鉄格子。頭を出すには微妙に狭い。",
+            "DescriptionEn": "Iron bars commonly seen at Valkyrie's Correctional Facility. Slightly too narrow to fit your head through."
+        },
+        {
+            "Key": 2876225434,
+            "NameJp": "ヴァルキューレ矯正局防犯ドア",
+            "NameEn": "Valkyrie Correctional Facility Security Door",
+            "DescriptionJp": "ヴァルキューレ矯正局の標準防犯ドア。インターホンは付いていない。",
+            "DescriptionEn": "Valkyrie's standard Correctional facility security door. No intercom."
+        },
+        {
+            "Key": 1483516418,
+            "NameJp": "ヴァルキューレ来客用ソファ（小）",
+            "NameEn": "Valkyrie Visitor Sofa (Small)",
+            "DescriptionJp": "ヴァルキューレの受付に置かれているソファ。手入れしやすい素材でできている。",
+            "DescriptionEn": "A sofa placed at Valkyrie's reception. Made of easy-to-maintain material."
+        },
+        {
+            "Key": 3053259826,
+            "NameJp": "ヴァルキューレ来客用ソファ（大）",
+            "NameEn": "Valkyrie Visitor Sofa (Large)",
+            "DescriptionJp": "ヴァルキューレの受付に置かれている大型ソファ。寝転ぶと怒られる。",
+            "DescriptionEn": "A large sofa placed at Valkyrie's reception. You'll get scolded if you lie down."
+        },
+        {
+            "Key": 3327970754,
+            "NameJp": "ヴァルキューレ旗章",
+            "NameEn": "Valkyrie Flag Emblem",
+            "DescriptionJp": "額縁に飾られたヴァルキューレの旗章。記念品として配ることはできないらしい。",
+            "DescriptionEn": "Valkyrie's flag emblem displayed in a frame. It cannot be given out as a souvenir."
+        },
+        {
+            "Key": 766048128,
+            "NameJp": "ヴァルキューレ防犯窓",
+            "NameEn": "Valkyrie Security Window",
+            "DescriptionJp": "ヴァルキューレの施設でよく使われる防犯窓。汚さないよう注意書きがある。",
+            "DescriptionEn": "A security window commonly used in Valkyrie facilities. There's a notice saying not to smudge it."
+        },
+        {
+            "Key": 656349259,
+            "NameJp": "ヴァルキューレ排煙窓",
+            "NameEn": "Valkyrie Smoke Vent",
+            "DescriptionJp": "ヴァルキューレでよく使われる換気用の細長い窓。体より少しだけ狭い。",
+            "DescriptionEn": "A narrow ventilation window commonly used at Valkyrie. Slightly narrower than your body."
+        },
+        {
+            "Key": 4119343592,
+            "NameJp": "ヴァルキューレ備品デスク",
+            "NameEn": "Valkyrie Equipment Desk",
+            "DescriptionJp": "ヴァルキューレの事務用のデスク。調書を書くときに使われる。",
+            "DescriptionEn": "An administrative desk used at Valkyrie. Used for writing statements."
+        },
+        {
+            "Key": 257103482,
+            "NameJp": "ヴァルキューレホワイトボード",
+            "NameEn": "Valkyrie Whiteboard",
+            "DescriptionJp": "ヴァルキューレの会議用ホワイトボード。落書きすると怒られる。",
+            "DescriptionEn": "A whiteboard for meetings at Valkyrie. You'll get scolded if you doodle on it."
+        },
+        {
+            "Key": 3717567290,
+            "NameJp": "ヴァルキューレ備品・書類棚1型",
+            "NameEn": "Valkyrie Equipment・Document Shelf Type 1",
+            "DescriptionJp": "ヴァルキューレでよく使う書類を保管する棚。きちんと整理されている。",
+            "DescriptionEn": "A shelf for storing frequently used documents at Valkyrie. Neatly organized."
+        },
+        {
+            "Key": 552379870,
+            "NameJp": "ヴァルキューレ備品・書類棚2型",
+            "NameEn": "Valkyrie Equipment・Document Shelf Type 2",
+            "DescriptionJp": "ヴァルキューレでよく使う書類を保管する棚。開閉時に大きな音がする。",
+            "DescriptionEn": "A shelf for storing frequently used documents at Valkyrie. Makes loud noise when opening and closing."
+        },
+        {
+            "Key": 2335238197,
+            "NameJp": "ヴァルキューレ備品・ロッカー",
+            "NameEn": "Valkyrie Equipment・Locker",
+            "DescriptionJp": "ヴァルキューレ警官の私物を保管するロッカー。いろいろな物が入っている。",
+            "DescriptionEn": "A locker for storing Valkyrie officers' personal items. Contains various things."
+        },
+        {
+            "Key": 2884514363,
+            "NameJp": "ヴァルキューレ強化ガラス自動扉",
+            "NameEn": "Valkyrie Reinforced Glass Automatic Door",
+            "DescriptionJp": "ヴァルキューレの施設で使われる出入口用のドア。唯一、自分の意思で開けられるドア。",
+            "DescriptionEn": "An entrance/exit door used at Valkyrie facilities. The only door you can open at will."
+        },
+        {
+            "Key": 4096515618,
+            "NameJp": "ヴァルキューレ旗章付き窓",
+            "NameEn": "Valkyrie Window With Flag Emblem",
+            "DescriptionJp": "ヴァルキューレの旗章が付いたガラス窓。",
+            "DescriptionEn": "A glass window with Valkyrie's flag emblem."
+        },
+        {
+            "Key": 176346493,
+            "NameJp": "ヴァルキューレブラインド付き防爆窓",
+            "NameEn": "Valkyrie Explosion-Proof Window With Blinds",
+            "DescriptionJp": "ヴァルキューレで使われているブラインド付きでありながら、防爆性能も備えている。",
+            "DescriptionEn": "Used at Valkyrie, this window has blinds while also featuring explosion-proof performance."
+        },
+        {
+            "Key": 2754850058,
+            "NameJp": "ヴァルキューレごみ箱（刑務作業生産品）",
+            "NameEn": "Valkyrie Trash Bin (Penal Labor Product)",
+            "DescriptionJp": "矯正局で製作されたごみ箱。作った人のこだわりが感じられる。",
+            "DescriptionEn": "A trash bin made at the Correctional Facility. You can feel the maker's dedication."
+        },
+        {
+            "Key": 2410248618,
+            "NameJp": "ヴァルキューレ来客用高級ソファ（大）",
+            "NameEn": "Valkyrie Luxury Visitor Sofa (Large)",
+            "DescriptionJp": "ヴァルキューレの受付に置かれている高級ソファ。とてもふかふかで、どれだけでも待てる。",
+            "DescriptionEn": "A luxury sofa placed at Valkyrie's reception. Very comfortable, you could wait there as long as needed."
+        },
+        {
+            "Key": 524795725,
+            "NameJp": "ヴァルキューレブラインド付き外窓",
+            "NameEn": "Valkyrie Exterior Window With Blinds",
+            "DescriptionJp": "ヴァルキューレでよく見かけるブラインド付きの窓。丈夫そうに見える。",
+            "DescriptionEn": "An exterior window with blinds commonly seen at Valkyrie. Looks durable."
+        },
+        {
+            "Key": 1574554235,
+            "NameJp": "ヴァルキューレ矯正局棚（刑務作業生産品）",
+            "NameEn": "Valkyrie Correctional Facility Shelf (Penal Labor Product)",
+            "DescriptionJp": "矯正局の各部屋に置かれている収納棚。見た目は無骨だが丁寧に作られている。",
+            "DescriptionEn": "Storage shelves placed in each room of the Correctional Facility. Looks rough but is carefully made."
+        },
+        {
+            "Key": 4259742109,
+            "NameJp": "ヴァルキューレ浄水器",
+            "NameEn": "Valkyrie Water Purifier",
+            "DescriptionJp": "ヴァルキューレの標準装備の浄水器。ここでは喉が渇きやすいので必需品。",
+            "DescriptionEn": "A water purifier standard equipment at Valkyrie. A necessity here as people get thirsty easily."
+        },
+        {
+            "Key": 3822757917,
+            "NameJp": "ヴァルキューレオフィスデスク",
+            "NameEn": "Valkyrie Office Desk",
+            "DescriptionJp": "ヴァルキューレで使われている配給品の事務用デスク。普通で安価なモデル。",
+            "DescriptionEn": "An administrative desk supplied for use at Valkyrie. An ordinary and inexpensive model."
+        },
+        {
+            "Key": 955957296,
+            "NameJp": "ヴァルキューレオフィスデスク（刑務作業生産品）",
+            "NameEn": "Valkyrie Office Desk (Penal Labor Product)",
+            "DescriptionJp": "ヴァルキューレの事務用デスク。新しい人生への希望が込められている。",
+            "DescriptionEn": "An administrative desk used at Valkyrie. Crafted with hope for a new life."
+        },
+        {
+            "Key": 2507296410,
+            "NameJp": "ヴァルキューレオフィス壁",
+            "NameEn": "Valkyrie Office Wall",
+            "DescriptionJp": "ヴァルキューレの事務室でよく見かける壁。手抜き工事の心配はない。",
+            "DescriptionEn": "A wall commonly seen in Valkyrie's office. No concern about shoddy construction."
+        },
+        {
+            "Key": 1699471238,
+            "NameJp": "ヴァルキューレオフィス用床材",
+            "NameEn": "Valkyrie Office Flooring",
+            "DescriptionJp": "ヴァルキューレの業務スペースに主に使われている床材。反省しながら見下ろすのにちょうどいい。",
+            "DescriptionEn": "Flooring mainly used in Valkyrie's work areas. Perfect for looking down at while reflecting."
+        },
+        {
+            "Key": 1503209208,
+            "NameJp": "ヴァルキューレ警察学校の背景",
+            "NameEn": "Valkyrie Police Academy Background",
+            "DescriptionJp": "ヴァルキューレ警察学校の背景。落ち着いた雰囲気で格好いい。",
+            "DescriptionEn": "The background of Valkyrie Police Academy. A calm atmosphere and looks cool."
+        },
+        {
+            "Key": 2659685066,
+            "NameJp": "ヴァルキューレ装備保管箱",
+            "NameEn": "Valkyrie Equipment Storage Box",
+            "DescriptionJp": "ヴァルキューレ警官の装備を保管する場所。きれいに整理しておこう。",
+            "DescriptionEn": "A place for storing Valkyrie officers' equipment. Let's keep it organized neatly."
+        },
+        {
+            "Key": 2156922497,
+            "NameJp": "ヴァルキューレ受付カウンター",
+            "NameEn": "Valkyrie Reception Counter",
+            "DescriptionJp": "ヴァルキューレの各種相談を受け付ける場所。人が並んでいないことの方が珍しい。",
+            "DescriptionEn": "A place where Valkyrie handles various consultations. People not being lined up is rare."
+        },
+        {
+            "Key": 497303992,
+            "NameJp": "ヴァルキューレ演台",
+            "NameEn": "Valkyrie Podium",
+            "DescriptionJp": "ヴァルキューレの公式発表を撮影するための演台。なかなか威厳がある。",
+            "DescriptionEn": "A podium for filming Valkyrie's official announcements. Has considerable dignity."
+        },
+        {
+            "Key": 3865070652,
+            "NameJp": "ヴァルキューレ文書保管庫",
+            "NameEn": "Valkyrie Document Storage",
+            "DescriptionJp": "ヴァルキューレの書類を保管するラック付き文書保管庫。ラックで遊ぶと怒られる。",
+            "DescriptionEn": "A document storage cabinet with racks for storing Valkyrie's documents. You'll get scolded if you play with the racks."
+        },
+        {
+            "Key": 1784909082,
+            "NameJp": "ヴァルキューレ書庫防護扉",
+            "NameEn": "Valkyrie Archive Security Door",
+            "DescriptionJp": "機密資料を保管する書庫の扉。普段は閉じられている。",
+            "DescriptionEn": "A door to the archive for storing confidential materials. Usually kept closed."
+        },
+        {
+            "Key": 1686910435,
+            "NameJp": "ヴァルキューレオフィス外窓",
+            "NameEn": "Valkyrie Office Exterior Window",
+            "DescriptionJp": "ヴァルキューレの駐車場が見える窓。警備車両が盗まれていないか見張ることができる。",
+            "DescriptionEn": "A window that shows Valkyrie's parking lot. You can keep watch for stolen security vehicles."
+        },
+        {
+            "Key": 1412335632,
+            "NameJp": "ヴァルキューレオフィスデスク（大）",
+            "NameEn": "Valkyrie Office Desk (Large)",
+            "DescriptionJp": "他の机と同じ支給品だが、少し大きくて快適な事務用デスク。",
+            "DescriptionEn": "Same issued desk as others, but slightly larger and more comfortable for administrative work."
+        },
+        {
+            "Key": 2919623372,
+            "NameJp": "ヴァルキューレプリンターデスク",
+            "NameEn": "Valkyrie Printer Desk",
+            "DescriptionJp": "共用プリンターが置かれているデスク。印刷すると少し揺れる。",
+            "DescriptionEn": "A desk where the shared printer is placed. Shakes a little when printing."
+        },
+        {
+            "Key": 1721524749,
+            "NameJp": "ヴァルキューレ記載台",
+            "NameEn": "Valkyrie Writing Stand",
+            "DescriptionJp": "来訪者が書類を記入するための台。落ち着いてきれいな字で書こう。",
+            "DescriptionEn": "A stand for visitors to fill out documents. Write neatly and calmly."
+        },
+        {
+            "Key": 2233212585,
+            "NameJp": "作戦テーブル",
+            "NameEn": "Operations Table",
+            "DescriptionJp": "古い机と折りたたみ椅子を組み合わせて作られたFOX小隊の作戦テーブル。作戦がない時は装備の整備や日誌を書くなど、さまざまな用途に使われている。",
+            "DescriptionEn": "FOX Squad's operations table made by combining an old desk and folding chairs. When there are no operations, it's used for various purposes like equipment maintenance and writing logs."
+        },
+        {
+            "Key": 4040410887,
+            "NameJp": "ヴァルキューレ射撃訓練場",
+            "NameEn": "Valkyrie Shooting Range",
+            "DescriptionJp": "ヴァルキューレ警察学校の射撃訓練施設。\n市民の安全を守るため、ヴァルキューレは日夜汗を流して訓練している。",
+            "DescriptionEn": "A shooting training facility at Valkyrie Police Academy.\nValkyrie trains day and night, sweating with effort to protect citizens' safety."
+        },
+        {
+            "Key": 425971983,
+            "NameJp": "アクセサリーショーケース",
+            "NameEn": "Accessory Showcase",
+            "DescriptionJp": "生徒たちの目を引く、かわいいアクセサリーのショーケース。きっと一つは気に入る物が見つかるだろう。",
+            "DescriptionEn": "A cute accessory showcase that catches students' eyes. You're sure to find something you like."
+        },
+        {
+            "Key": 187756687,
+            "NameKr": "발키리 경찰학교",
+            "DescriptionKr": "(X)",
+            "NameJp": "ヴァルキューレ警察学校",
+            "DescriptionJp": "（X）",
+            "NameEn": "Valkyrie Police Academy",
+            "DescriptionEn": ""
+        },
+        {
+            "Key": 72410385,
+            "NameKr": "퀸즈 갬빗",
+            "DescriptionKr": "2부 총학생회 편 1장 3화 클리어",
+            "NameJp": "クイーンズ・ギャンビット",
+            "DescriptionJp": "第2部連邦生徒会編1章3話クリア",
+            "NameEn": "The Queen's Gambit",
+            "DescriptionEn": "Clear Story Part 2: Federal Student Council Arc, Chapter 1, Episode 3."
+        },
+        {
+            "Key": 3753496723,
+            "NameKr": "소대는 잘 먹어야 진격한다",
+            "DescriptionKr": "2부 로어추적 편 1장 3화 클리어",
+            "NameJp": "小隊は腹ごしらえしてから行進する",
+            "DescriptionJp": "第2部ロア追跡編1章3話クリア",
+            "NameEn": "The Platoon Marches on its Stomach",
+            "DescriptionEn": "Clear Story Part 2: Lore Pursuit Arc, Chapter 1, Episode 3."
+        },
+        {
+            "Key": 1549873212,
+            "NameKr": "특수작전: 로어추적 편",
+            "DescriptionKr": "특수작전: 로어추적 편 이벤트에서 획득 가능",
+            "NameJp": "特殊作戦・ロア追跡編",
+            "DescriptionJp": "特殊作戦・ロア追跡編イベントにて獲得可能",
+            "NameEn": "Special Operation: Lore Pursuit",
+            "DescriptionEn": "Obtainable in the Special Operation: Lore Pursuit event."
+        },
+        {
+            "Key": 749870951,
+            "NameJp": "万能設計図抽選ボックス",
+            "NameEn": "Universal Blueprint Raffle Box",
+            "DescriptionJp": "使用時、万能設計図の中から、一つを同じ確率で獲得することができる抽選ボックス。使用後すぐに設計図を手に入れることができる。",
+            "DescriptionEn": "A lottery box that, when used, gives you one of the Universal Blueprints with equal probability. You will obtain the blueprint immediately after use."
+        },
+        {
+            "Key": 1201774160,
+            "NameJp": "T10装備設計図選択ボックス",
+            "NameEn": "T10 Equipment Blueprint Choice Ticket",
+            "DescriptionJp": "任意のT10装備の設計図を選択して交換することができる選択ボックス。",
+            "DescriptionEn": "A selection box that allows you to choose and exchange for any T10 equipment blueprint."
+        },
+        {
+            "Key": 3359982953,
+            "NameJp": "ヴァルキューレ警察学校シリーズ選択ボックス",
+            "NameEn": "Valkyrie Police Academy Furniture Choice Box",
+            "DescriptionJp": "ヴァルキューレ警察学校シリーズの中から、任意の家具を選択して交換することができる選択ボックス。",
+            "DescriptionEn": "A selection box that allows you to choose and replace any furniture from the Valkyrie Police Academy series."
+        },
+        {
+            "Key": 3291841289,
+            "NameJp": "ヴァルキューレ警察学校シリーズ抽選ボックス",
+            "NameEn": "Valkyrie Police Academy Furniture Raffle Box",
+            "DescriptionJp": "使用時、ヴァルキューレ警察学校シリーズの家具の中から、一つを同じ確率で獲得することができる抽選ボックス。",
+            "DescriptionEn": "When used, this lottery box gives you one random piece of furniture from the Valkyrie Police Academy furniture set."
+        },
+        {
+            "Key": 928727826,
+            "NameJp": "帽子の万能設計図",
+            "NameEn": "Hat Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 2850873091,
+            "NameJp": "グローブの万能設計図",
+            "NameEn": "Gloves Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 1360752877,
+            "NameJp": "シューズの万能設計図",
+            "NameEn": "Shoes Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 3776284465,
+            "NameJp": "バッグの万能設計図",
+            "NameEn": "Bag Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 768771450,
+            "NameJp": "バッジの万能設計図",
+            "NameEn": "Badge Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 1025314359,
+            "NameJp": "ヘアピンの万能設計図",
+            "NameEn": "Hairpin Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 3649522857,
+            "NameJp": "お守りの万能設計図",
+            "NameEn": "Charm Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 1693340533,
+            "NameJp": "腕時計の万能設計図",
+            "NameEn": "Watch Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 678481779,
+            "NameJp": "ネックレスの万能設計図",
+            "NameEn": "Necklace Universal Blueprint",
+            "DescriptionJp": "装備を作ることができる図面。",
+            "DescriptionEn": "Blueprints that allow you to create equipment."
+        },
+        {
+            "Key": 3676923287,
+            "NameKr": "이벤트 챌린지 스테이지 1 힌트",
+            "DescriptionKr": "연쇄 폭발 함정이 발동 될 때 까지 버티면 승리합니다.\n아케미의 공격을 인화성 드럼통에 유도하면 연쇄 폭발 함정이 좀 더 빠르게 발동됩니다.\n\n스케반은 오래 생존할수록 강해집니다.",
+            "NameJp": "イベントチャレンジステージ1ヒント",
+            "DescriptionJp": "連鎖爆発トラップが発動するまで耐えると勝利します。\nアケミの攻撃を引火性ドラム缶に誘導すれば連鎖爆発トラップがより早く発動します。\n\nスケバンは時間が経つごとに強くなります。",
+            "NameEn": "Event Challenge Stage 1 Hint",
+            "DescriptionEn": "You win if you endure until the chain explosion trap activates.\nIf you guide Akemi's attacks to the flammable drums, the chain explosion trap will activate faster.\n\nSukeban become stronger as time passes."
+        },
+        {
+            "Key": 1280690466,
+            "NameKr": "이벤트 챌린지 스테이지 2 힌트",
+            "DescriptionKr": "모든 적의 공격 속성이 폭발 속성인 것을 고려하여 편성하세요.\n소대원들을 강화시켜주는 유키노를 먼저 노려보세요.",
+            "NameJp": "イベントチャレンジステージ2ヒント",
+            "DescriptionJp": "すべての敵の攻撃属性が爆発であることを踏まえて編成してみましょう。\n小隊員を強化するユキノを先に攻略してみましょう。",
+            "NameEn": "Event Challenge Stage 2 Hint",
+            "DescriptionEn": "Form your team keeping in mind that all enemies' attack type is Explosive.\nTry defeating Yukino first, as she strengthens squad members."
+        },
+        {
+            "Key": 2920015713,
+            "NameKr": "이벤트 챌린지 스테이지 3 힌트",
+            "DescriptionKr": "군중제어 스킬을 활용하여 경극부 학생이 Ex스킬을 사용하기 전에 저지하세요.",
+            "NameJp": "イベントチャレンジステージ3ヒント",
+            "DescriptionJp": "CC状態を活用して京劇部員がEXスキルを使用する前に倒しましょう。",
+            "NameEn": "Event Challenge Stage 3 Hint",
+            "DescriptionEn": "Utilize the CC effects to defeat the Peking Opera Club member before she uses her EX Skill."
+        },
+        {
+            "Key": 2740980058,
+            "NameKr": "이벤트 챌린지 스테이지 4 힌트",
+            "DescriptionKr": "유키노는 군중제어 게이지를 보유하며, 누적 시 주위 적이 일정 시간 동안 Ex스킬을 사용하지 못하게 됩니다.\n\n컨테이너 제어장치가 파괴되면 특별한 아군이 나타나 도움을 줍니다.",
+            "NameJp": "イベントチャレンジステージ4ヒント",
+            "DescriptionJp": "ユキノはCCゲージを保有し、累積すると周辺の敵は一定時間EXスキルを使用できなくなります。\n\nコンテナ制御装置を破壊すると特別な味方が登場してサポートします。",
+            "NameEn": "Event Challenge Stage 4 Hint",
+            "DescriptionEn": "Yukino possesses a CC gauge, and when accumulated, nearby enemies cannot use their EX Skills for a certain period.\n\nWhen you destroy the container control device, a special ally will appear to support you."
+        }
 
     ]
 }

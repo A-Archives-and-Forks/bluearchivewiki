@@ -578,7 +578,7 @@
           "Torment"
         ],
         [
-          "Light",
+          "Elastic",
           "Insane"
         ]
       ],
@@ -588,11 +588,29 @@
     "36": {
       "bosses": [
         [
-          "Heavy",
+          "Special",
           "Torment"
         ],
         [
+          "Light",
+          "Torment"
+        ],
+        [
+          "Elastic",
+          "Insane"
+        ]
+      ],
+      "challenge_difficulty": "Torment",
+      "notes": ""
+    },
+    "37": {
+      "bosses": [
+        [
           "Special",
+          "Torment"
+        ],
+        [
+          "Light",
           "Torment"
         ],
         [
@@ -1135,6 +1153,42 @@
         [
           "Special",
           "Insane"
+        ]
+      ],
+      "challenge_difficulty": "Torment",
+      "notes": ""
+    },
+    "33": {
+      "bosses": [
+        [
+          "Special",
+          "Torment"
+        ],
+        [
+          "Elastic",
+          "Torment"
+        ],
+        [
+          "Heavy",
+          "Insane"
+        ]
+      ],
+      "challenge_difficulty": "Torment",
+      "notes": ""
+    },
+    "34": {
+      "bosses": [
+        [
+          "Heavy",
+          "Insane"
+        ],
+        [
+          "Special",
+          "Torment"
+        ],
+        [
+          "Light",
+          "Torment"
         ]
       ],
       "challenge_difficulty": "Torment",
