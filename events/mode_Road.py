@@ -20,7 +20,7 @@ def parse_rounds(season_id):
     global missing_localization, missing_etc_localization
     rounds = []
 
-    roadpuzzle_rewards = {x['UniqueId']:x for x in data.minigame_roadpuzzle_reward[season_id]}
+    roadpuzzle_rewards = {x['UniqueId']:x for x in data.minigame_roadpuzzle_reward[season_id]} if season_id in data.minigame_roadpuzzle_reward else {}
     for reward in roadpuzzle_rewards.values():
         reward['reward_parcels'] = []
         for i, parcel_id in enumerate(reward['RewardParcelId']):
@@ -51,7 +51,7 @@ def parse_rounds(season_id):
         # print(additional_rewards)
 
 
-        round['rewards'] = roadpuzzle_rewards[round['RoundReward']] #minigame_roadpuzzle_reward
+        round['rewards'] = roadpuzzle_rewards[round['RoundReward']] if round['RoundReward'] in roadpuzzle_rewards else None
         round['wiki_additional_rewards'] = [] #additional_rewards 
         rounds.append(round)
                 

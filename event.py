@@ -24,6 +24,7 @@ from events.mode_Defense import get_mode_defense
 from events.mode_Road import get_mode_road
 from events.mode_CCG import get_mode_ccg
 from events.mode_DiceRace import get_mode_dicerace
+from events.mode_ClueSearch import get_mode_cluesearch
 from shared.functions import hashkey
 from shared.MissingTranslations import MissingTranslations
 
@@ -427,6 +428,11 @@ def generate():
     if (args['event_season'], "DiceRace") in data.event_content_seasons:
         wikitext_dicerace = get_mode_dicerace(args['event_season'], data, characters, items, furniture, emblems, missing_localization, missing_code_localization, missing_etc_localization)
 
+    #ClueSearch
+    wikitext_cluesearch = ''
+    if (args['event_season'], "ClueSearch") in data.event_content_seasons:
+        wikitext_cluesearch = get_mode_cluesearch(args['event_season'], data, characters, items, furniture, emblems, missing_localization, missing_code_localization, missing_etc_localization)
+
 
     #SCHEDULE
     wikitext_schedule_locations = ''
@@ -662,7 +668,7 @@ def generate():
     wikitext_footer = template.render(season=season)
     
     wikitext = wikitext_header + wikitext_event_dates + wikitext_bonus_characters + wikitext_stages + wikitext_hexamaps
-    wikitext += wikitext_schedule_locations + wikitext_dicerace
+    wikitext += wikitext_schedule_locations + wikitext_dicerace + wikitext_cluesearch
     wikitext += '\n=Mission Details & Rewards=\n' + wikitext_missions + wikitext_shops + wikitext_boxgacha + wikitext_milestones + wikitext_cardshop+ wikitext_fortunegacha + wikitext_field + wikitext_treasure + wikitext_dreammaker + wikitext_defense + wikitext_road + wikitext_ccg + wikitext_footer
 
 
